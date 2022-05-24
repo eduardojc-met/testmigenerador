@@ -52,7 +52,7 @@ spec:
       secretName: scf-hq.com
   rules:
     - host: >-
-    testmigenerador-develop.scfhq-publiccrossdev01-391a523e0203d3683790f242c9079785-0000.eu-de.containers.appdomain.cloud
+        testmigenerador-develop.scfhq-publiccrossdev01-391a523e0203d3683790f242c9079785-0000.eu-de.containers.appdomain.cloud
       http:
         paths:
           - path: /
